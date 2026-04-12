@@ -10,7 +10,7 @@
 ## 📖 About Me
 - Experienced in developing and manually testing web and mobile applications. 💻
 - Interested in UI/UX Design and Game Development. 🎮  
-- Currently learning Godot and Aseprite. 🤖  
+- Currently learning Luau, Godot, and Aseprite. 🤖  
 - Focused on improving software quality through testing and user-centered design. ✨
 
 ## 🖨️ Tools and Languages 
